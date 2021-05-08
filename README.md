@@ -1,9 +1,4 @@
----
-title: "Proyecto 1"
-author: "Franco"
-date: "11-04-2021"
-output: html_document
----
+###Proyecto 1
 
 ```{r}
 data = read.csv("sanguchez.csv" , sep = ";")
